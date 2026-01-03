@@ -210,7 +210,10 @@ img {
     padding-bottom: 15px;   
 }
 
-footer h2{
+footer, h2{
     color: #F7F2EA;
 }
 
+main h2{
+  color: #8d875c;
+}
